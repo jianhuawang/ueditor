@@ -1,7 +1,7 @@
-Get Started
+项目说明
 =====
 
-> 鉴于目前 ISSUE 较多而维护时间较少，且在进行后续的版本更新，目前暂时关闭 ISSUE，若社区有人跟进，欢迎和我们联系。重复的问题，请参阅常见问题的 [FAQ Wiki](https://github.com/fex-team/ueditor/wiki/FAQ)。
+> 因为UEditor官方可能不在更新版本，为了支持老用户继续使用，以及修复一些已知的问题，特此创建了本项目用于维护UEditor。欢迎UEditor用户积极参与。
 
 ## 重要安全通告：
 
